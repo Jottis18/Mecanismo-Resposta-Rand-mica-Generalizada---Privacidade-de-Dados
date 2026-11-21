@@ -1,8 +1,18 @@
+# Base de dados (fornecida com o enunciado; cada um coloca na pasta do projeto)
+dados_censo.csv
+
+# Ambientes virtuais e cache do Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
 .venv/
 venv/
+env/
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários e do sistema
 .DS_Store
+Thumbs.db
 .vscode/
 .idea/
